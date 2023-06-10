@@ -1,0 +1,11 @@
+1 0 Hello world!
+2 3 Hello you. 
+3 52 I love you! 
+1 2352 Yes!
+42 5 Space is big.
+5 2 On my way.
+42 0 Don't panic.
+352 1 Make it so.
+0 0 Is anybody out there?
+42 42 I'd far rather be happy than right any day
+343 0 Permission to give the covenant back their bomb?
