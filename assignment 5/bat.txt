@@ -1,0 +1,7 @@
+bat
+bta
+abt
+atb
+tab
+tba
+*
